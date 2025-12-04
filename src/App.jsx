@@ -53,7 +53,7 @@ function App() {
             </h1>
           </div>
           <p className="text-muted-foreground">
-            Stay organized and productive
+            Stay organized and unproductive
           </p>
         </div>
 
